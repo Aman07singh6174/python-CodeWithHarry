@@ -1,0 +1,9 @@
+a=20
+b=float(a)
+t=type(a)
+print(t)
+q=type(b)
+print(q)
+print(b)
+print(a)
+print(int(b))

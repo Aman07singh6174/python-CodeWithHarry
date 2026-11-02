@@ -27,4 +27,4 @@ z= complex(1, 2)# z is a complex number
 
 #rull
 
-#Invalid variable :number,spesulsimbal,space
+# Invalid variable :number,spesulsimbal,space

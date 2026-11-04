@@ -1,7 +1,6 @@
 import pyttsx3
-
 engine = pyttsx3.init()
-engine.say("""**A New Day**
+engine.say("""A New Day
 
 The sun comes up, the sky turns bright,
 The world wakes up in golden light.

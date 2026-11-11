@@ -1,8 +1,4 @@
 Welcome to My Text File!
-
 This is a simple text file created for testing purposes.
 Today is a beautiful day to learn something new.
-
-
-
 End of File.
